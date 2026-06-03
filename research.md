@@ -3,8 +3,12 @@ layout: default
 title: Research
 ---
 
-## Past Research
-
+## Research
+<div style="border-top: 1px solid #eaeaea; border-bottom: 1px solid #eaeaea; padding: 1.2rem 0; margin: 1.5rem 0 3rem 0;">
+  <p style="margin: 0; font-size: 1.1rem; color: #333;">
+    Here are some of my research:
+  </p>
+</div>
 <br>
 
 <div style="margin-bottom: 3rem; line-height: 1.6;">
