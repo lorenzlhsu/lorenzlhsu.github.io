@@ -1,6 +1,7 @@
 title: Dr. Li Hsu
 description: Personal academic website and blog
 url: "https://lorenzlhsu.github.io"
+baseurl: "/lorenzlhsu.github.io"
 
 # Corrected Navigation mapping
 header_pages:
