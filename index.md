@@ -1,6 +1,7 @@
- ---
+---
 layout: default
----I am Li Hsu (he/him), a chemist whose work focuses on the total chemical assembly and chemo-enzymatic diversification of complex, asymmetric glycans.  
+---
+I am Li Hsu (he/him), a chemist whose work focuses on the total chemical assembly and chemo-enzymatic diversification of complex, asymmetric glycans.  
 
 My research addresses the structural boundaries of molecular recognition at the cell surface. By developing convergent strategies to synthesize defined regioisomers, my work maps the precise trajectories of glycan processing, thereby deciphering how subtle structural variations govern both healthy biomolecular interactions and disease pathways. 
 
