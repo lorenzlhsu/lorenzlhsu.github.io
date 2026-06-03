@@ -8,8 +8,19 @@
 </head>
 <body>
   <div class="container">
+    
     <nav class="sidebar">
       <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+
+      <div style="margin-bottom: 2rem;">
+        <img src="{{ '/assets/profile.jpg' | relative_url }}" alt="Profile Photo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 5px; margin-bottom: 0.8rem; display: block; background-color: #f4f4f4;">
+        
+        <div style="font-size: 0.95rem; line-height: 1.6; font-weight: 500;">
+          <a href="mailto:lorenzlihsul@gmail.com" style="color: #d13d3d; text-decoration: none;">Email</a><br>
+          <a href="https://www.linkedin.com/in/li-hsu-58a61b70/" target="_blank" style="color: #d13d3d; text-decoration: none;">LinkedIn</a>
+        </div>
+      </div>
+
       <ul>
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
         <li><a href="{{ '/cv.html' | relative_url }}">CV</a></li>
@@ -17,9 +28,17 @@
         <li><a href="{{ '/blog.html' | relative_url }}">Blog</a></li>
       </ul>
     </nav>
+
     <main class="content">
-      {{ content }}
+      <div style="min-height: 60vh;">
+        {{ content }}
+      </div>
+
+      <footer style="margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid #eee; color: #888; font-size: 0.85rem;">
+        &copy; 2026 Dr. Li Hsu. All Rights Reserved.
+      </footer>
     </main>
+
   </div>
 </body>
 </html>
