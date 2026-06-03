@@ -9,7 +9,6 @@ title: Research
     Here are some of my research:
   </p>
 </div>
-<br>
 
 <div style="margin-bottom: 3rem; line-height: 1.6;">
   
