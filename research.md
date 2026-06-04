@@ -27,7 +27,7 @@ Ultimately, integrating synthesis with dual-axis screening unlocks a clearer win
 
   </p>
   <p style="margin-top: 0; margin-bottom: 1.5rem;">
-    <strong>Keywords:</strong> <em>[Bioconjugation, Nanobodies, Cystic Fibrosis]</em>
+    <strong>Keywords:</strong> <em>[Carbohydrates, Chemical Biology, Molecular Recognition, Post-Translational Modification, Viruses]</em>
   </p>
 
   <img src="{{ '/assets/research1-outline.jpg' | relative_url }}" alt="Graphical Abstract 1" style="width: 100%; max-width: 700px; border: 1px solid #eaeaea; border-radius: 4px; display: block;">
