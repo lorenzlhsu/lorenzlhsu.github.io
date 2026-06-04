@@ -30,7 +30,7 @@ Ultimately, integrating synthesis with dual-axis screening unlocks a clearer win
     <strong>Keywords:</strong> <em>[Carbohydrates, Chemical Biology, Molecular Recognition, Post-Translational Modification, Viruses]</em>
   </p>
 
-  <img src="{{ '/assets/research1-outline.jpeg' | relative_url }}" alt="Graphical Abstract 1" style="width: 100%; max-width: 700px; border: 1px solid #eaeaea; border-radius: 4px; display: block;">
+  <img src="{{ '/assets/research1-outline.png' | relative_url }}" alt="Graphical Abstract 1" style="width: 100%; max-width: 700px; border: 1px solid #eaeaea; border-radius: 4px; display: block;">
 
 </div>
 
