@@ -12,7 +12,7 @@ title: Research
 
 <div style="margin-bottom: 3rem; line-height: 1.6;">
   
-  <strong>S. Pawar,* L. Hsu,* T. N. Reddy, M. Ravinder, C. T. Ren, Y. W. Lin, Y. Y. Cheng, T. W. Lin, T. L. Hsu, S. K. Wang, C. H. Wong,* and C. Y. Wu*</strong><br>
+  <strong>S. Pawar, L. Hsu,</strong> T. N. Reddy, M. Ravinder, C. T. Ren, Y. W. Lin, Y. Y. Cheng, T. W. Lin, T. L. Hsu, S. K. Wang, C. H. Wong,* and C. Y. Wu*<br>
   <em>ACS Chem. Biol.</em> 2020 DOI:10.1021/acschembio.0c00359<br>
   Synthesis of Asymmetric N-Glycans as Common Core Substrates for Structural Diversification through Selective Enzymatic Glycosylation<br>
   <a href="https://pubs.acs.org/doi/abs/10.1021/acschembio.0c00359" target="_blank" style="color: #333; text-decoration: underline;">Link to the article</a>
