@@ -19,7 +19,7 @@ title: Research
 <img src="{{ '/assets/research1-outline.png' | relative_url }}" alt="Graphical Abstract 1" style="width: 100%; max-width: 700px; border: 1px solid #eaeaea; border-radius: 4px; display: block; margin-bottom: 1.5rem;">
 
   <strong>S. Pawar, L. Hsu,</strong> T. N. Reddy, M. Ravinder, C. T. Ren, Y. W. Lin, Y. Y. Cheng, T. W. Lin, T. L. Hsu, S. K. Wang, C. H. Wong,* and C. Y. Wu*<br>
-  <em>J. Am. Chem. Soc.</em> 2013 DOI:10.1021/ja409097c<br>
+  <em>ACS Chem. Biol.</em> 2020 DOI:10.1021/acschembio.0c00359<br>
   <a href="https://pubs.acs.org/doi/abs/10.1021/acschembio.0c00359" target="_blank" style="color: #333; text-decoration: underline;">Link to the article</a>
 
   <p style="margin-top: 1.5rem; margin-bottom: 0.5rem;">
@@ -49,12 +49,14 @@ By integrating chemical convergent synthesis of regio-isomeric substrates and en
 <img src="{{ '/assets/research2-outline.png' | relative_url }}" alt="Graphical Abstract 1" style="width: 100%; max-width: 700px; border: 1px solid #eaeaea; border-radius: 4px; display: block; margin-bottom: 1.5rem;">
 
   Sachin S. Shivatare, Shih-Huang Chang, Tsung-I Tsai, Chien-Tai Ren, Hong-Yang Chuang, <strong>Li Hsu,</strong> Chih-Wei Lin, Shiou-Ting Li, Chung-Yi Wu*, and Chi-Huey Wong*,<br>
-  <em>ACS Chem. Biol.</em> 2020 DOI:10.1021/acschembio.0c00359<br>
+  <em>J. Am. Chem. Soc.</em> 2013 DOI:10.1021/ja409097c<br>
   <a href="https://pubs.acs.org/doi/10.1021/ja409097c" target="_blank" style="color: #333; text-decoration: underline;">Link to the article</a>
 
   <p style="margin-top: 1.5rem; margin-bottom: 0.5rem;">
     <p><strong>Abstract:</strong><br> 
-Heterogeneous <em>N</em>-glycans mask viral epitopes, forming a complex "glycan shield" that evades immune recognition. Deciphering these interaction networks requires structurally defined carbohydrate libraries. This work details a unified convergent strategy for the rapid assembly of bi-, tri-, and tetra-antennary complex type $N$-glycans. By utilizing highly reactive oligosaccharyl fluorides for sterically hindered core glycosylations, the framework minimizes synthetic steps through shared intermediates, completing terminal architectures via precise enzymatic sialylation.Automated immobilization of these branched architectures onto a glycan microarray platform permitted the precise profiling of HIV-1 broadly neutralizing antibodies PG9 and PG16. Screening efforts identified an unnatural, conformationally restricted ligand (glycan 28) that exhibits high-affinity binding to PG16. This structurally simplified candidate offers a scalable blueprint for carbohydrate-based immunogen engineering and vaccine development, demonstrating how strategic chemical innovation directly advances therapeutic discovery pipelines.
+Heterogeneous <em>N</em>-glycans mask viral epitopes, forming a complex "glycan shield" that evades immune recognition. Inducing the immune system targeting such a shield requires structurally defined carbohydrate libraries. This work details a unified, convergent strategy for the rapid assembly of bi-, tri-, and tetra-antennary complex-type <em>N</em>-glycans.<br> 
+This work elegantly allocates synthesis efforts to minimize effort by utilizing highly reactive oligosaccharyl fluorides for sterically hindered "inner part" glycosylations and the enzymatic installation of sialyl groups, which require tedious functional group manipulation in organic synthesis.<br>
+By incorporating glycan microarrays, we profiled the HIV-1 broadly neutralizing antibodies PG9 and PG16, identified an unnatural, conformationally restricted ligand (glycan 28) that exhibits high-affinity binding to PG16. This structurally simplified candidate offers a scalable blueprint for carbohydrate-based immunogen engineering and vaccine development.
 
   </p>
   <p style="margin-top: 0; margin-bottom: 1.5rem;">
