@@ -11,7 +11,13 @@ title: Research
 </div>
 
 <div style="margin-bottom: 3rem; line-height: 1.6;">
-  
+
+<h3 style="margin-top: 0; margin-bottom: 1.2rem; font-size: 1.3rem; color: #222;">
+    Synthesis of Asymmetric N!Glycans as Common Core Substrates for Structural Diversi!cation through Selective Enzymatic Glycosylation
+</h3>
+
+<img src="{{ '/assets/research1-outline.png' | relative_url }}" alt="Graphical Abstract 1" style="width: 100%; max-width: 700px; border: 1px solid #eaeaea; border-radius: 4px; display: block; margin-bottom: 1.5rem;">
+
   <strong>S. Pawar, L. Hsu,</strong> T. N. Reddy, M. Ravinder, C. T. Ren, Y. W. Lin, Y. Y. Cheng, T. W. Lin, T. L. Hsu, S. K. Wang, C. H. Wong,* and C. Y. Wu*<br>
   <em>ACS Chem. Biol.</em> 2020 DOI:10.1021/acschembio.0c00359<br>
   Synthesis of Asymmetric N-Glycans as Common Core Substrates for Structural Diversification through Selective Enzymatic Glycosylation<br>
@@ -29,8 +35,6 @@ title: Research
   <p style="margin-top: 0; margin-bottom: 1.5rem;">
     <strong>Keywords:</strong> <em>[Carbohydrates, Chemical Biology, Molecular Recognition, Post-Translational Modification, Viruses]</em>
   </p>
-
-  <img src="{{ '/assets/research1-outline.png' | relative_url }}" alt="Graphical Abstract 1" style="width: 100%; max-width: 700px; border: 1px solid #eaeaea; border-radius: 4px; display: block;">
 
 </div>
 
