@@ -20,16 +20,16 @@ title: Research
 
   <strong>S. Pawar, L. Hsu,</strong> T. N. Reddy, M. Ravinder, C. T. Ren, Y. W. Lin, Y. Y. Cheng, T. W. Lin, T. L. Hsu, S. K. Wang, C. H. Wong,* and C. Y. Wu*<br>
   <em>ACS Chem. Biol.</em> 2020 DOI:10.1021/acschembio.0c00359<br>
-  Synthesis of Asymmetric N-Glycans as Common Core Substrates for Structural Diversification through Selective Enzymatic Glycosylation<br>
   <a href="https://pubs.acs.org/doi/abs/10.1021/acschembio.0c00359" target="_blank" style="color: #333; text-decoration: underline;">Link to the article</a>
 
   <p style="margin-top: 1.5rem; margin-bottom: 0.5rem;">
-    <p><strong>Abstract:</strong> Cellular surfaces are coated with a complex <strong>"glycan mantle"</strong>—a dense layer of asymmetric sugar structures that defines human health and governs disease progression. Immune cells or viruses interacting with our cells are like design judges: if a design fits their taste, the prizes (i.e., passing the immune check or virus entry) are granted. Understanding the patterns of the mantle design and judges' taste has always been bottlenecked by the extreme structural heterogeneity and unavailability of these isomers.</p>
-<p>To decode this complexity, we developed the <strong>Asymmetric Glycan Common-substrate (AGCS)</strong> approach. By chemically constructing serial asymmetric cores, this platform establishes a strategic blueprint to inspect two critical biological axes:</p>
-<p><strong>•	Mapping the Judges' Taste (Demonstrated):</strong> We assembled a library of 26 well-defined tri- and tetra-antennary regioisomers to profile complex recognition events, revealing that pathogens such as influenza hemagglutinin exhibit unexpected, arm-biased affinity preferences.<br>  
-<strong>•	Investigating the Machinery's Habits (Concept Proven):</strong> Beyond binding, this framework provides a systematic methodology to expose these precise variations to glycosyltransferases, offering a rare opportunity to determine whether the biosynthetic machinery itself exhibits native output preferences across isomeric arms.</p> 
-<p>Ultimately, integrating synthesis with dual-axis screening unlocks a clearer window into biological recognition, providing a powerful diagnostic blueprint for differentiating healthy cell coatings from disease-associated glycoforms.</p>
-
+    <p><strong>Abstract:</strong><br> 
+<strong>The Biological Challenge</strong><br>
+Cellular surfaces are coated with a complex <strong>"glycan mantle"</strong>woven by diverse sugar structures that define human health and govern disease progression. Immune cells or viruses act like design judges: if the mantle's design fits their taste, the prizes (i.e., immune evasion or viral entry) are granted. Decoding the underlying patterns of the mantle and judges' taste for diagnosis and therapy has always been bottlenecked by the massive structural heterogeneity and utter unavailability of isolated asymmetric isomers.</p>
+<p><strong>Our Solution: The AGCS (Asymmetric Glycan Common-substrate) Platform</strong><br> 
+By integrating chemical convergent synthesis of regio-isomeric substrates and enzymatic elaboration, this flexible platform established a blueprint to inspect two critical biological axes systematically:</p>
+<p><strong>•	Mapping the Judges' Taste (Pathogen Profiling):</strong> We assembled a diverse library of 26 well-defined, multi-antennary regioisomers to profile recognition of the hemagglutinin (HA) of an avian influenza virus (H5N2) using glycan microarrays, revealing that H5N2 HA exhibits <strong>unexpected, arm-biased, and context-based affinity preferences.</strong><br>  
+<strong>•	Investigating the Machinery's Habits (Biosynthesis verification):</strong> Beyond profiling from the judge's side, this framework can also systematically evaluate the substrate preferences of disease-related human glycosyltransferases, allowing us to observe whether that machinery exhibits output preferences across distinct isomeric arms, giving a rare opportunity to <strong>differentiate disease from healthy from the side of the "glycan mantle" production.</strong></p> 
 
   </p>
   <p style="margin-top: 0; margin-bottom: 1.5rem;">
