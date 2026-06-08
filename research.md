@@ -13,7 +13,7 @@ title: Research
 <div style="margin-bottom: 3rem; line-height: 1.6;">
 
 <h3 style="margin-top: 0; margin-bottom: 1.2rem; font-size: 1.3rem; color: #222;">
-    Synthesis of Asymmetric N!Glycans as Common Core Substrates for Structural Diversi!cation through Selective Enzymatic Glycosylation
+    Synthesis of Asymmetric <em>N</em>-Glycans as Common Core Substrates for Structural Diversifcation through Selective Enzymatic Glycosylation
 </h3>
 
 <img src="{{ '/assets/research1-outline.png' | relative_url }}" alt="Graphical Abstract 1" style="width: 100%; max-width: 700px; border: 1px solid #eaeaea; border-radius: 4px; display: block; margin-bottom: 1.5rem;">
