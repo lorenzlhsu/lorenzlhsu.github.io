@@ -60,7 +60,7 @@ By integrating chemical convergent synthesis of regio-isomeric substrates and en
 
 • <strong>Mapping the Judges' Taste (Pathogen Profiling):</strong> We assembled a diverse library of 26 multi-antennary regioisomers to profile recognition of the hemagglutinin (HA) of an avian influenza virus (H5N2) using glycan microarrays, revealing that H5N2 HA exhibits unexpected, arm-biased, and context-based affinity preferences.<br>
 
-• <strong>Investigating the Machinery's Habits (Biosynthesis verification):<br> Beyond profiling from the judge's side, this framework can also systematically evaluate the substrate preferences of disease-related human glycosyltransferases, allowing us to observe whether that machinery exhibits output preferences across distinct isomeric arms, giving a rare opportunity to differentiate disease from healthy from the side of the "glycan mantle" production.
+• <strong>Investigating the Machinery's Habits (Biosynthesis verification):</strong> Beyond profiling from the judge's side, this framework can also systematically evaluate the substrate preferences of disease-related human glycosyltransferases, allowing us to observe whether that machinery exhibits output preferences across distinct isomeric arms, giving a rare opportunity to differentiate disease from healthy from the side of the "glycan mantle" production.
 
 </p>
 
