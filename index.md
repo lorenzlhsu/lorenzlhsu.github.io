@@ -4,8 +4,7 @@ title: Home
 ---
 ## About Me
 
-<div style="border-top: 1px solid #eaeaea; border-bottom: 1px solid #eaeaea; padding: 1.2rem 0; margin: 1.5rem 0 3rem 0;">
-</div>
+<div style="border-top: 1px solid #eaeaea; margin: 1.5rem 0 3rem 0;"></div>
 I am Li Hsu (he/him), a chemist whose work focuses on the total chemical assembly and chemo-enzymatic diversification of complex, asymmetric glycans.  
 
 My research addresses the biological consequences of structural variation in "sugar trees" (glycans). By developing chemoenzymatic strategies, my work maps the trajectories of glycan biochemical processing, thereby systematically deciphering how isomeric structural variations govern both healthy biomolecular interactions and disease pathways. Briefly, giving a more profound and comprehensive view of glycan's roles in biology.
