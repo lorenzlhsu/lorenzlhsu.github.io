@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 I am Li Hsu (he/him), a chemist whose work focuses on the total chemical assembly and chemo-enzymatic diversification of complex, asymmetric glycans.  
 
