@@ -2,7 +2,11 @@
 layout: default
 title: Blog
 ---
+## My Blog
 
+<div style="border-top: 1px solid #eaeaea; border-bottom: 1px solid #eaeaea; padding: 1.2rem 0; margin: 1.5rem 0 3rem 0;">
+
+<p style="margin: 0; font-size: 1.1rem; color: #333;">
 
 {% for post in site.posts %}
 
