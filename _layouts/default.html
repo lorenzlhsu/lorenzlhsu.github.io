@@ -16,44 +16,24 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
+  
   <div class="container">
     
-    <nav class="sidebar">
+    <div class="sidebar">
       <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-
-      <div style="margin-bottom: 2.5rem;">
-        <img src="{{ '/assets/profile1.jpeg' | relative_url }}" alt="Profile Photo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 5px; margin-bottom: 1.2rem; display: block; background-color: #f4f4f4;">
-        
-        <div style="font-size: 1rem; font-weight: 500;">
-          <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 0.5rem;">
-            <i class="fa-regular fa-envelope" style="color: #444; font-size: 1.2rem; width: 24px; text-align: center;"></i>
-            <a href="mailto:lorenzlihsu@gmail.com" style="color: #444; text-decoration: none;">email</a>
-          </div>
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <i class="fa-brands fa-linkedin" style="color: #444; font-size: 1.2rem; width: 24px; text-align: center;"></i>
-            <a href="https://www.linkedin.com/in/li-hsu-58a61b70/" target="_blank" style="color: #444; text-decoration: none;">LinkedIn</a>
-          </div>
-        </div>
-      </div>
-
       <ul>
         <li><a href="{{ '/' | relative_url }}">Home</a></li>
         <li><a href="{{ '/cv.html' | relative_url }}">CV</a></li>
         <li><a href="{{ '/research.html' | relative_url }}">Research</a></li>
         <li><a href="{{ '/blog.html' | relative_url }}">Blog</a></li>
       </ul>
-    </nav>
+    </div>
 
-    <main class="content">
-      <div style="min-height: 60vh;">
-        {{ content }}
-      </div>
-
-      <footer style="margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid #eee; color: #888; font-size: 0.85rem;">
-        &copy; 2026 Dr. Li Hsu. All Rights Reserved.
-      </footer>
-    </main>
+    <div class="content">
+      {{ content }}
+    </div>
 
   </div>
+
 </body>
 </html>
