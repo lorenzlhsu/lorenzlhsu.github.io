@@ -14,3 +14,7 @@ This methodological framework bridges organic synthesis with multi-pathway enzym
 Complementing this macromolecular focus is a proven track record in interface chemistry and surface modification for functional biomedical devices. This work encompasses the design of anti-fouling zwitterionic polymer coatings on titanium/silicon substrates and the synthesis of small-molecule libraries optimized for biosensor limits. Parallel to this translational research is a long-term commitment to public scientific literacy, executed through the design of vivid, applied chemistry curricula for youth and through community-university lectures.
 
 Beyond research and teaching, I am a fan of Manchester United in the Premier League. I have a passion for collecting plant leaves, seeds, and foraging for mushrooms. One of my hobbies is puzzles, which resembles the manner of research: breaking down the problem, prioritizing, assigning resources, and solving step by step. Additionally, I think Haruhi Suzumiya reminds us of the necessity of keeping a curious mind in this overall undiscovered universe.
+
+<p style="color: #666; font-size: 0.9em;">
+  Last updated: {{ site.time | date: "%b. %d %Y" }}.
+</p>
